@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4a24b58-90ad-49a4-a6e8-b1075c3f7d80" name="Default Changelist" comment="" />
+    <list default="true" id="f4a24b58-90ad-49a4-a6e8-b1075c3f7d80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Schema/GetStockData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schema/UserSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/Schema/UserSchema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connect.js" beforeDir="false" afterPath="$PROJECT_DIR$/connect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WTCN4dBLQYoHMrko04XNRfH7ds" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,10 +70,31 @@
       <workItem from="1580112410692" duration="4546000" />
       <workItem from="1580895904454" duration="2010000" />
       <workItem from="1581923002286" duration="308000" />
+      <workItem from="1582205923933" duration="113000" />
+      <workItem from="1582269005943" duration="3647000" />
+      <workItem from="1582291291011" duration="32464000" />
+      <workItem from="1582354234583" duration="11000" />
+      <workItem from="1582357704183" duration="971000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="36" key="search.everywhere.popup" timestamp="1582314915059">
+      <screen x="0" y="23" width="1366" height="689" />
+    </state>
+    <state x="339" y="36" key="search.everywhere.popup/0.23.1366.689@0.23.1366.689" timestamp="1582314915059" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Schema/UserSchema.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
